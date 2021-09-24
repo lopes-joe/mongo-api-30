@@ -17,6 +17,7 @@ As extra tool, We are gonna use:
 -  *Insomnia*. This allows us to easily execute HTTP verbs.
 -  *Git*. I want to be proficient in using git, so I want to use it here. I am supposed to use it each time I arrive a small target point developing my aplication
 
+
 ## Goal
 I want to find a intuitive way to work with the HTTP verbs and persisting in a database
 
