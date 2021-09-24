@@ -1,5 +1,5 @@
 # Rest API with Mongo DB
-## Based on *Programando com Roger* tutorial##
+**Based on *Programando com Roger* tutorial**
 
 ## Description
 A simple and intuitive rest API using Node JS, Mongo DB and Javascript
