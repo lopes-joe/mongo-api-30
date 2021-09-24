@@ -1,0 +1,16 @@
+{
+  "name": "mongo-api-30",
+  "version": "1.0.0",
+  "description": "A simple and intuitive rest API using Node JS, Mongo DB and Javascript",
+  "main": "index.js",
+  "repository": "https://github.com/lopes-joe/mongo-api-30.git",
+  "author": "lopes-joe <slopes.joe@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  }
+}
